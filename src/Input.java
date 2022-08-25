@@ -7,7 +7,7 @@ public class Input {
 
     public static void main(String [] args) {
 
-        //declare and instantiating (giving first value to) a String variable
+        //declare and instantiate (give first value to) a String variable
         //called lunch
         String lunch = "sandwich";
 
